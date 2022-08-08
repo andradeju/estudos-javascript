@@ -1,0 +1,1 @@
+const alunos = ['João', 'Juliana', 'Caio', 'Ana']
